@@ -28,7 +28,6 @@
     "*.json",
     "*.js",
     "js/**/*.js",
-    "img/**/*.svg",
     "sass/**/*.{sass,scss}"
   ],
   "engines": {
