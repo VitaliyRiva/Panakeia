@@ -7,7 +7,7 @@
 *.sublime*
 npm-debug.log
 sass/*
-css/style.css*
-css/normalize.css*
+/style.css
+/normalize.css
 node_modules/
 Thumbs.db
