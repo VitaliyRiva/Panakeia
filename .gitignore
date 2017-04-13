@@ -6,8 +6,8 @@
 *.psd
 *.sublime*
 npm-debug.log
-sass/*
 /style.css
 /normalize.css
+sass/*
 node_modules/
 Thumbs.db
